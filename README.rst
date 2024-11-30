@@ -1,3 +1,11 @@
+Hey Vlad, 
+It seems I can't find your email online.
+Would you mind contacting me? I have a few questions about your talk!
+
+Thanky you!
+Ale. 
+
+
 .. image:: https://img.shields.io/pypi/v/dwave-system.svg
    :target: https://pypi.org/project/dwave-system
 
